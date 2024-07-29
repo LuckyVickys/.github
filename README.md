@@ -42,11 +42,9 @@ Full stack 4명, FE 1명 총 5명
 
 ### 4) 회원 및 포인트 정책
 
-### 5) Usecase Diagram
+### 5) 화면 정의 및 기능 명세서
 
-### 6) 화면 정의 및 기능 명세서
-
-### 7) 테스트 케이스
+### 6) 테스트 케이스
 
 ### 8) API 명세서
 
@@ -57,6 +55,18 @@ Full stack 4명, FE 1명 총 5명
 ### 2) Cloud Architecture
 
 ### 3) MySQL, ElasticSearch 연동
+
+### 4) Usecase Diagram
+
+### 5) Class Diaram
+- Member
+![image](https://github.com/user-attachments/assets/03761d40-3da6-415e-9197-8037ffba9a9c)
+- Board
+![image](https://github.com/user-attachments/assets/743c8e12-53d7-48c8-a6c4-0be48484a3cf)
+- Like, Report
+![image](https://github.com/user-attachments/assets/6879b8d1-c887-408e-9f89-94c928af4ab2)
+- Admin
+![image](https://github.com/user-attachments/assets/31ec8b14-b765-4570-9722-8a5fbd57f76d)
 
 ## 4. 기능
 
