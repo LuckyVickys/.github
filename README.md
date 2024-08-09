@@ -53,10 +53,19 @@ Full stack 4명, FE 1명 총 5명
 ### 1) ER Diagram
 
 ### 2) Cloud Architecture
+![cloudAC](https://github.com/user-attachments/assets/2c9f91b1-b8b0-4d25-9dca-f0a453e627b9)
+
 
 ### 3) MySQL, ElasticSearch 연동
 
 ### 4) Usecase Diagram
+ - 비회원
+   ![normal_uc](https://github.com/user-attachments/assets/30f5f305-d15c-4c44-b297-beb71e0ffb9b)
+ - 회원
+   ![member_uc](https://github.com/user-attachments/assets/41a859c7-2f3c-4b22-9537-252f33c7ab0c)
+ - 관리자
+   ![admin_uc](https://github.com/user-attachments/assets/fcc93698-0aa9-4518-b8fc-447ad117c5df)
+
 
 ### 5) Class Diaram
 - Member
@@ -65,6 +74,12 @@ Full stack 4명, FE 1명 총 5명
 ![image](https://github.com/user-attachments/assets/743c8e12-53d7-48c8-a6c4-0be48484a3cf)
 - Like, Report
 ![image](https://github.com/user-attachments/assets/6879b8d1-c887-408e-9f89-94c928af4ab2)
+- Message
+  ![message_cd](https://github.com/user-attachments/assets/42301222-c0c8-437b-82b0-0803062d3cf6)
+- Matching
+  ![memberMatching_cd](https://github.com/user-attachments/assets/b968590b-a9fe-435f-82b0-f3f50c762d9f)
+  ![matchingboar_cd](https://github.com/user-attachments/assets/81d6c6ac-ac4d-4e17-a23a-504a9357bc00)
+  ![MatchingBoardReply_cd](https://github.com/user-attachments/assets/5ca04eab-7e56-4c63-9565-04f55cf6136d)
 - Admin
 ![image](https://github.com/user-attachments/assets/31ec8b14-b765-4570-9722-8a5fbd57f76d)
 
