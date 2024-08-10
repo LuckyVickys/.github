@@ -85,39 +85,47 @@ Full stack 4명, FE 1명 총 5명
 
 ## 4. 기능
 
-### 1) 화면
+### 1) <a href="https://github.com/LuckyVickys/woosan-front/blob/main/Readme.assets/front.md">화면</a>
 - 반응형 웹
 - 라이트모드 및 다크모드
 
 ### 2) 회원 기능
+<a href="https://github.com/LuckyVickys/woosan-back/tree/main/Readme.assets/member">💾BE</a> <a href="https://github.com/LuckyVickys/woosan-front/tree/main/Readme.assets/member">🖥️FE</a>
 - 회원 가입
 - 일반 로그인
 - 카카오 로그인
-- 일반 로그인
 - 프로필 드롭다운 (회원 정보 조회)
 - 비밀번호 찾기
 - 로그아웃
 - 회원 탈퇴
 - 쪽지 전송
 - 마이페이지
+  - 회원 정보 수정
+  - 작성한 게시글 조회
+  - 추천 게시글 조회
+  - 모임 조회
+  - 보낸 쪽지함
+  - 받은 쪽지함
 
-### 3) 게시판 기능
+### 3) 쪽지 기능
+<a href="https://github.com/LuckyVickys/woosan-back/tree/main/Readme.assets/message">💾BE</a> <a href="https://github.com/LuckyVickys/woosan-front/tree/main/Readme.assets/message">🖥️FE</a>
+- 쪽지 전송
+
+### 4) 게시판 기능
+<a href="https://github.com/LuckyVickys/woosan-back/tree/main/Readme.assets/board">💾BE</a> <a href="https://github.com/LuckyVickys/woosan-front/tree/main/Readme.assets/board">🖥️FE</a>
 - 게시글 작성
 - 게시글 조회
 - 게시글 수정
 - 게시글 삭제
-
 - 댓글 작성
 - 댓글 조회
 - 댓글 작성
- 
-
 - 게시글 추천
-
+- 댓글 추천
 - 작성자 신고
-  
 
-### 4) 모임 기능
+### 5) 모임 기능
+<a href="https://github.com/LuckyVickys/woosan-back/tree/main/Readme.assets/matching">💾BE</a> <a href="https://github.com/LuckyVickys/woosan-front/tree/main/Readme.assets/matching">🖥️FE</a>
 - 정기모임, 번개, 셀프 소개팅 생성, 수정, 삭제
 - 모임 조회
 - 가입신청, 취소, 탈퇴
@@ -125,10 +133,10 @@ Full stack 4명, FE 1명 총 5명
 - 가입신청 승인, 거절, 모임원 강퇴
 - 모임 댓글과 답글 작성, 조회, 삭제 
 
-### 5) 관리자 기능
+### 6) 관리자 기능
+<a href="https://github.com/LuckyVickys/woosan-back/tree/main/Readme.assets/admin">💾BE</a> <a href="https://github.com/LuckyVickys/woosan-front/tree/main/Readme.assets/admin">🖥️FE</a>
 - 메인 페이지 배너 관리
-- 
-- 작성한 게시물 조회
-- 작성한 댓글 조회
-- 추천한 게시물 조회
-- 
+- 신고 관리
+- 공지사항 관리
+- 보낸 쪽지함
+- 받은 쪽지함
