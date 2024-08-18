@@ -32,33 +32,35 @@ Full stack 4명, FE 1명 총 5명
 |이덕현|팀원|- ㅇ <br> - ㅇ|- ㅇ <br> - ㅇ
 <br>
 
-## 2. 기획
+## 2. <a href="https://docs.google.com/spreadsheets/d/19taF1XyT4yUDGoeNRijiSMMParugKapNYVWsBwyKFtA/edit?usp=sharing">기획</a>
 
 ### 1) 기획 의도
+정보 공유 게시판과 쪽지, 모임을 통해 사용자 간 활발한 소통을 촉진하고,
+번역과 요약 기능을 곁들여 효율적인 소통이 가능한 1인 가구 웹 커뮤니티를 만들고자 하였습니다.
 
 ### 2) 일정 관리
+![image](https://github.com/user-attachments/assets/053dbe13-10d1-4ce9-a950-f2a9b45f7ef7)
 
-### 3) 사용자 요구사항
+### 3) <a href="https://docs.google.com/spreadsheets/d/19taF1XyT4yUDGoeNRijiSMMParugKapNYVWsBwyKFtA/edit?usp=sharing">사용자 요구사항</a>
 
 ### 4) 회원 및 포인트 정책
+![image](https://github.com/user-attachments/assets/4bb18790-4af0-44ce-9cee-73d3020c56f8)
 
-### 5) 화면 정의 및 기능 명세서
+### 5) <a href="https://docs.google.com/spreadsheets/d/19taF1XyT4yUDGoeNRijiSMMParugKapNYVWsBwyKFtA/edit?usp=sharing">화면 정의 및 기능 명세서</a>
 
-### 6) 테스트 케이스
+### 6) <a href="https://docs.google.com/spreadsheets/d/19taF1XyT4yUDGoeNRijiSMMParugKapNYVWsBwyKFtA/edit?usp=sharing">테스트 케이스</a>
 
-### 8) API 명세서
+### 8) <a href="https://docs.google.com/spreadsheets/d/19taF1XyT4yUDGoeNRijiSMMParugKapNYVWsBwyKFtA/edit?usp=sharing">API 명세서</a>
 
 ## 3. 설계
 
 ### 1) ER Diagram
+![Woosan3 +](https://github.com/user-attachments/assets/7c9efe0b-3942-4776-9132-b059cb1eaf12)
 
 ### 2) Cloud Architecture
 ![cloudAC](https://github.com/user-attachments/assets/2c9f91b1-b8b0-4d25-9dca-f0a453e627b9)
 
-
-### 3) MySQL, ElasticSearch 연동
-
-### 4) Usecase Diagram
+### 3) Usecase Diagram
  - 비회원
    ![normal_uc](https://github.com/user-attachments/assets/30f5f305-d15c-4c44-b297-beb71e0ffb9b)
  - 회원
@@ -66,8 +68,7 @@ Full stack 4명, FE 1명 총 5명
  - 관리자
    ![admin_uc](https://github.com/user-attachments/assets/fcc93698-0aa9-4518-b8fc-447ad117c5df)
 
-
-### 5) Class Diaram
+### 4) Class Diaram
 - Member
 ![image](https://github.com/user-attachments/assets/03761d40-3da6-415e-9197-8037ffba9a9c)
 - Board
