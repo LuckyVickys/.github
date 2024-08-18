@@ -3,6 +3,7 @@
 ### 클릭 시 레포지토리로 이동 ↓↓
 <a href="https://github.com/LuckyVickys/woosan-back">우산 프로젝트 BE Repository</a> <br>
 <a href="https://github.com/LuckyVickys/woosan-front">우산 프로젝트 FE Repository</a>
+<a href="https://www.canva.com/design/DAGMSO8HY9M/OhlrF8D_8oi9edJX00W9mw/edit?utm_content=DAGMSO8HY9M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">우산 프로젝트 PPT</a>
 <br><br>
 
 ## 1. 프로젝트 소개
@@ -35,7 +36,14 @@ Full stack 4명, FE 1명 총 5명
 ## 2. <a href="https://docs.google.com/spreadsheets/d/19taF1XyT4yUDGoeNRijiSMMParugKapNYVWsBwyKFtA/edit?usp=sharing">기획</a>
 
 ### 1) 기획 의도
-정보 공유 게시판과 쪽지, 모임을 통해 사용자 간 활발한 소통을 촉진하고,
+'나 혼자 산다'라는 TV 프로그램, 본 적 있으신가요? <br>
+1인 가정이 늘어나는 세태를 반영해 혼자 사는 유명인들의 일상을 관찰 카메라 형태로 담은 다큐멘터리 형식의 예능 프로그램입니다. <br>
+이러한 예능 프로그램이 흥행하고, 전체 가구의 40%가 넘는 비율을 차지할 정도로 1인 가구의 규모는 점점 증가하고 있습니다.<br>
+<br>
+또한 10대부터 40대까지 매주 온라인 커뮤니티를 이용하는 비율이 50% 이상에 달하고, <br>
+10명 중 9명 정도가 숏폼 영상 플랫폼을 이용하고 있습니다. <br>
+<br>
+따라서 정보 공유 게시판과 쪽지, 모임을 통해 다양한 사용자 간 활발한 소통을 촉진하고, <br>
 번역과 요약 기능을 곁들여 효율적인 소통이 가능한 1인 가구 웹 커뮤니티를 만들고자 하였습니다.
 
 ### 2) 일정 관리
