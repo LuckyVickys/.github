@@ -145,7 +145,7 @@ Slack과 Jira를 통하여 일정 관리를 했습니다.
 - 모임 댓글과 답글 작성, 조회, 삭제 
 
 ### 6) 관리자 기능
-<a href="https://github.com/LuckyVickys/woosan-back/tree/main/Readme.assets/admin">💾BE</a> <a href="https://github.com/LuckyVickys/woosan-front/tree/main/Readme.assets/admin">🖥️FE</a>
+💾BE <a href="https://github.com/LuckyVickys/woosan-front/tree/main/Readme.assets/admin">🖥️FE</a>
 - 메인 페이지 배너 관리
 - 신고 관리
 - 공지사항 관리
