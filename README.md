@@ -54,7 +54,7 @@ Full stack 4명, FE 1명 총 5명
 ### 4) 회원 및 포인트 정책
 ![image](https://github.com/user-attachments/assets/4bb18790-4af0-44ce-9cee-73d3020c56f8)
 
-### 5) <a href="https://docs.google.com/spreadsheets/d/19taF1XyT4yUDGoeNRijiSMMParugKapNYVWsBwyKFtA/edit?usp=sharing">화면 정의 및 기능 명세서</a>
+### 5) <a href="https://docs.google.com/document/d/1MKFOMg7aaxHg-g86xs-NmV8JBOb4Y6jsVTfmT90pQ5w/edit?usp=sharing">화면 정의 및 기능 명세서</a>
 
 ### 6) <a href="https://docs.google.com/spreadsheets/d/19taF1XyT4yUDGoeNRijiSMMParugKapNYVWsBwyKFtA/edit?usp=sharing">테스트 케이스</a>
 
