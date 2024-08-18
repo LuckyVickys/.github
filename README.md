@@ -2,7 +2,7 @@
 
 ### 클릭 시 레포지토리로 이동 ↓↓
 <a href="https://github.com/LuckyVickys/woosan-back">우산 프로젝트 BE Repository</a> <br>
-<a href="https://github.com/LuckyVickys/woosan-front">우산 프로젝트 FE Repository</a>
+<a href="https://github.com/LuckyVickys/woosan-front">우산 프로젝트 FE Repository</a> <br>
 <a href="https://www.canva.com/design/DAGMSO8HY9M/OhlrF8D_8oi9edJX00W9mw/edit?utm_content=DAGMSO8HY9M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">우산 프로젝트 PPT</a>
 <br><br>
 
