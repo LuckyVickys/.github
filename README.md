@@ -47,11 +47,13 @@ Full stack 4명, FE 1명 총 5명
 번역과 요약 기능을 곁들여 효율적인 소통이 가능한 1인 가구 웹 커뮤니티를 만들고자 하였습니다.
 
 ### 2) 일정 관리
+Slack과 Jira를 통하여 일정 관리를 했습니다.
 ![image](https://github.com/user-attachments/assets/053dbe13-10d1-4ce9-a950-f2a9b45f7ef7)
 
 ### 3) <a href="https://docs.google.com/spreadsheets/d/19taF1XyT4yUDGoeNRijiSMMParugKapNYVWsBwyKFtA/edit?usp=sharing">사용자 요구사항</a>
 
 ### 4) 회원 및 포인트 정책
+비회원과 회원, 그리고 등급에 따라 이용할 수 있는 정책을 분류하였습니다.
 ![image](https://github.com/user-attachments/assets/4bb18790-4af0-44ce-9cee-73d3020c56f8)
 
 ### 5) <a href="https://docs.google.com/document/d/1MKFOMg7aaxHg-g86xs-NmV8JBOb4Y6jsVTfmT90pQ5w/edit?usp=sharing">화면 정의 및 기능 명세서</a>
